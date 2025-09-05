@@ -6,6 +6,8 @@ I'm anxious about how I present online, and I recently have been approached by p
 ## Disclaimer
 This guide is a very surface level thing and assumes that you have already taken the appropiate steps. You should still be screenshotting all messages you receive as-is and contact your local police department for further advice and help. This guide also assumes you are willing to do **anything** to stay safe, including giving up platforms you may not easily be able to let go.
 
+You are intended to use this guide as a basis for what platforms to avoid if you think you are in danger or at risk.
+
 ## Table of Contents
 > [!IMPORTANT]
 > This guide is a work in progress.
