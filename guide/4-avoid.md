@@ -53,7 +53,7 @@ If you are being cyberstalked, AVOID THESE SITES. Their controls are second to n
 >
 > Your bio and badge history is hidden while logged out. Users in the United Kingdom also has their friends hidden if you are not friended.
 >
-> ROBLOX has several flaws, including being unable to turn off friend requests (which can and has been used to harass before), being unable to turn off who can follow you, unable to hide the avatars of blocked users, and in general just poor user safety. These features have been abused before and ROBLOX is also a **very** big hub for predators. Do not fly.
+> ROBLOX has several flaws, including being unable to turn off friend requests (which can and has been used to harass before), being unable to turn off who can follow you, unable to hide the avatars of blocked users, and in general just poor user safety. These features have been abused before and ROBLOX is also a **very** big hub for predators.
 
 ***
 
