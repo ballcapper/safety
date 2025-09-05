@@ -26,12 +26,14 @@ Sites that have very minor risks, but for the most part have good safety control
 **SPACEHEY!!!**
 > SpaceHey is an online MySpace-like platform with just over a million daily users. SpaceHey has a block feature, the ability to hide your profile nad the ability to limit private messages to friends only. Profile comments are always only writable by friends, but are visible to all users.
 >
-> SpaceHey has several vectors of attack (that should NOT be ignored), including friend requests, blog comments, 
+> SpaceHey has several vectors of attack (that should NOT be ignored), including friend requests, blog comments, etc. All content is publically accessible on profiles with no alt/vpn detection, with the only options being "show to all" or "show to friends only".
 >
-> SpaceHey has also been a very big victim of gore raids, profiles with sexual content, and other content that should be avoided, no matter how much you want to use it.
+> SpaceHey has also been a very big victim of gore raids, profiles with sexual content, and other content that should be avoided, no matter how much you want to use it. There is also divides in opinions with the userbase, and a lot of top posts tend to be drama filled.
 
 **ROBLOX**
 > ROBLOX is an online gaming platform with hundreds of millions of users daily. ROBLOX has a block feature and the ability to turn off your online status. ROBLOX also forcefully only allows you to receieve messages from friends in private (since the removal of Inbox), and hides messages from blocked users.
+>
+> Your bio is hidden while logged out.
 >
 > ROBLOX has several flaws, including being unable to turn off friend requests (which can and has been used to harass before), being unable to turn off who can follow you, unable to hide the avatars of blocked users, and in general just poor user safety. These features have been abused before and ROBLOX is also a **very** big hub for predators. Do not fly.
 
