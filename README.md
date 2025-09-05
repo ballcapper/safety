@@ -7,6 +7,9 @@ I'm anxious about how I present online, and I recently have been approached by p
 This guide is a very surface level thing and assumes that you have already taken the appropiate steps. You should still be screenshotting all messages you receive as-is and contact your local police department for further advice and help. This guide also assumes you are willing to do **anything** to stay safe, including giving up platforms you may not easily be able to let go.
 
 ## Table of Contents
+> [!IMPORTANT]
+> This guide is a work in progress.
+
 - [1. Introduction](guide/1-intro.md)
 - [2. Basic Safety Tips](guide/2-basics.md)
 - [3. Do's and Dont's](guide/3-yesno.md)
