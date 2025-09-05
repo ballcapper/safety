@@ -49,9 +49,9 @@ If you are being cyberstalked, AVOID THESE SITES. Their controls are second to n
 > SpaceHey has also been a very big victim of gore raids, profiles with sexual content, and other content that should be avoided, no matter how much you want to use it. There is also divides in opinions with the userbase, and a lot of top posts tend to be drama filled.
 
 **ROBLOX**
-> ROBLOX is an online gaming platform with hundreds of millions of users daily. ROBLOX has a block feature and the ability to turn off your online status. ROBLOX also forcefully only allows you to receieve messages from friends in private (since the removal of Inbox), and hides messages from blocked users.
+> ROBLOX is an online gaming platform with hundreds of millions of users daily. ROBLOX has a block feature and the ability to turn off your online status. ROBLOX also forcefully only allows you to receieve messages from friends in private (since the removal of Inbox), and hides messages from blocked users. Users can opt out of reading public chat messages for *everyone* with no toggle for specific users.
 >
-> Your bio is hidden while logged out.
+> Your bio and badge history is hidden while logged out. Users in the United Kingdom also has their friends hidden if you are not friended.
 >
 > ROBLOX has several flaws, including being unable to turn off friend requests (which can and has been used to harass before), being unable to turn off who can follow you, unable to hide the avatars of blocked users, and in general just poor user safety. These features have been abused before and ROBLOX is also a **very** big hub for predators. Do not fly.
 
