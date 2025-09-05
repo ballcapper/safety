@@ -10,4 +10,7 @@ So why not fix that by linking more resources that could help?
 This is mostly curated and will be tweaked as I see fit.
 
 - [reddit.com - Someone from Canada has been cyberstalking me for over 6 years. Is there any legal action I can take against him?](https://old.reddit.com/r/legaladvicecanada/comments/151atu8/someone_from_canada_has_been_cyberstalking_me_for/)
-- 
+
+***
+
+[Back](./4-avoid.md)

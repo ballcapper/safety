@@ -10,5 +10,5 @@ This guide is a very surface level thing and assumes that you have already taken
 - [1. Introduction](guide/1-intro.md)
 - [2. Basic Safety Tips](guide/2-basics.md)
 - [3. Do's and Dont's](guide/3-yesno.md)
-- [4. Websites You Should Avoid](guide/3-avoid.md)
-- [5. More Resources](guide/4-resources.md)
+- [4. Websites You Should Avoid](guide/4-avoid.md)
+- [5. More Resources](guide/5-resources.md)
